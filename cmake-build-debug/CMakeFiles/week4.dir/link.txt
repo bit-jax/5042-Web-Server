@@ -1,0 +1,1 @@
+/usr/bin/c++ -pthread -g CMakeFiles/week4.dir/main.cpp.o -o week4 

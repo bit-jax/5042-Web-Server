@@ -1,0 +1,3 @@
+/mnt/c/Users/joeom/Documents/cs5042/week7/cmake-build-debug/CMakeFiles/week4.dir
+/mnt/c/Users/joeom/Documents/cs5042/week7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/joeom/Documents/cs5042/week7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
